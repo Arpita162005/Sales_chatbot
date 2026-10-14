@@ -1,0 +1,3 @@
+# all-MiniLM-L6-v2 through sentence-transformers (needs PyTorch - setup.ps1 installs torch first).
+# Skip this file and set EMBED_BACKEND=ollama to use the same model served by Ollama instead.
+sentence-transformers>=3.0
